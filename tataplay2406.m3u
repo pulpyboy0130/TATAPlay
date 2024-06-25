@@ -1,4 +1,4 @@
-#EXTM3U × Dinesh Shrestha (ardinesh)
+#EXTM3U × Pulpyboy
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
 #EXTINF:-1 tvg-id="ts840" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56386-kfc14w60-v4/imageContent-56386-kfc14w60-m4.png" group-title="Devotional",Shirdi Sai Baba
@@ -106,7 +106,7 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/anjan-tv/index.ts
 #EXTINF:-1 tvg-id="ts818" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52945-ka1wdss8-v2/imageContent-52945-ka1wdss8-m2.png" group-title="Entertainment",Shemaroo TV
 https://tplay.dinesh29.com.np/live/tataplay-universal/shemaroo-tv/index.ts
 
-#EXTINF:-1 tvg-id="ts874" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ch7003_Thumbnail-v1/ch7003_Thumbnail.png" group-title="Music & Audio",Deployment channel 19.0
+#EXTINF:-1 tvg-id="ts874" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ch7003_Thumbnail-v1/ch7003_Thumbnail.png" group-title="Music",Deployment channel 19.0
 https://tplay.dinesh29.com.np/live/tataplay-universal/deployment-channel-190/index.ts
 
 #EXTINF:-1 tvg-id="ts888" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Ishara_Thumbnail-v3/Ishara_Thumbnail.png" group-title="Entertainment",Ishara
@@ -355,10 +355,10 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/tata-play-har-ghar-startup
 #EXTINF:-1 tvg-id="ts209" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-849-j5m9tmf4-v1/imageContent-849-j5m9tmf4-m1.png" group-title="News",News 24
 https://tplay.dinesh29.com.np/live/tataplay-universal/news-24/index.ts
 
-#EXTINF:-1 tvg-id="ts929" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64069-kra2o75k-v2/imageContent-64069-kra2o75k-m2.png" group-title="Educational",Tata Play JEE Prep
+#EXTINF:-1 tvg-id="ts929" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64069-kra2o75k-v2/imageContent-64069-kra2o75k-m2.png" group-title="Knowledge",Tata Play JEE Prep
 https://tplay.dinesh29.com.np/live/tataplay-universal/tata-play-jee-prep/index.ts
 
-#EXTINF:-1 tvg-id="ts928" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64066-kra2j2qo-v2/imageContent-64066-kra2j2qo-m2.png" group-title="Educational",Tata Play NEET Prep
+#EXTINF:-1 tvg-id="ts928" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64066-kra2j2qo-v2/imageContent-64066-kra2j2qo-m2.png" group-title="Knowledge",Tata Play NEET Prep
 https://tplay.dinesh29.com.np/live/tataplay-universal/tata-play-neet-prep/index.ts
 
 #EXTINF:-1 tvg-id="ts106" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-339-j5jm6kko-v1/imageContent-339-j5jm6kko-m1.png" group-title="News",News18 India
@@ -1129,7 +1129,7 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/gemini-life/index.ts
 #EXTINF:-1 tvg-id="ts352" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11423-j9jqqegg-v1/imageContent-11423-j9jqqegg-m1.png" group-title="Entertainment",ETV Plus
 https://tplay.dinesh29.com.np/live/tataplay-universal/etv-plus/index.ts
 
-#EXTINF:-1 tvg-id="ts996" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSTEL_Thumbnail-v4/TONSTEL_Thumbnail.png" group-title="Bengali;Marathi;Hindi;Tamil;Punjabi;Animation;Kids;Cartoons",Tata Play Toons+
+#EXTINF:-1 tvg-id="ts996" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSTEL_Thumbnail-v4/TONSTEL_Thumbnail.png" group-title="Kids",Tata Play Toons+
 https://tplay.dinesh29.com.np/live/tataplay-universal/tata-play-toons-4/index.ts
 
 #EXTINF:-1 tvg-id="ts590" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12186-j9plqam8-v4/imageContent-12186-j9plqam8-m5.png" group-title="Shopping",Telugu Naaptol
@@ -1138,7 +1138,7 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/telugu-naaptol/index.ts
 #EXTINF:-1 tvg-id="ts585" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12164-j9phk5iw-v1/imageContent-12164-j9phk5iw-m1.png" group-title="Entertainment",Vissa TV
 https://tplay.dinesh29.com.np/live/tataplay-universal/vissa-tv/index.ts
 
-#EXTINF:-1 tvg-id="ts645" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23721-jg0fhacg-v2/imageContent-23721-jg0fhacg-m2.PNG" group-title="Knowledge;Kids",Tata Play English in Telugu
+#EXTINF:-1 tvg-id="ts645" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23721-jg0fhacg-v2/imageContent-23721-jg0fhacg-m2.PNG" group-title="Kids",Tata Play English in Telugu
 https://tplay.dinesh29.com.np/live/tataplay-universal/tata-play-english-in-telugu/index.ts
 
 #EXTINF:-1 tvg-id="ts362" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11438-j9jqvyaw-v1/imageContent-11438-j9jqvyaw-m1.png" group-title="Movies",Gemini Movies HD
